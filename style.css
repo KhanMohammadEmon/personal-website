@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+}
+
+#hello
+{
+    font-size: 30px;
+}
+h1{
+    size: 50px;
+}
+h2{
+    size: 40%;
+}
+p 
+{
+    color: dimgray;
+}
+
+.top-part{
+  
+    background-image: url("image/header-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.pink-hilight
+{
+    color: rgb(248, 36, 107);
+    font-size: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+    padding-top: 10%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.bio-part
+{
+    background-image: url("image/biography-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#bio
+{
+ padding-top: 10%;
+ 
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightpink,rgb(241, 51, 130));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:  white ;
+    font-weight: 700;
+}
+
+.lastwork
+{
+    background-image: url("image/latest-work-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.Last-hedding
+{
+    font-size: 50px;
+    margin-left: 40%;
+    text-align: center;
+}
+
+.one-third-width{
+    width: 25%;
+    float: left;
+    border-radius: 10px;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.one-third-width img{
+    width: 100%;
+}
+.last
+{
+    background-image: url("image/footer-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.name
+{
+    margin-left: 5%;
+    text-align: center;
+}
+
+.name h2 
+{
+    padding-top: 5%;
+}
+
+.name h3 
+{
+    color: gray;
+}
+
+.name h4{
+    padding-top: 5%;
+    font-size: 20px;
+}
+
+#email
+{
+    
+    background: rgb(236, 16, 108);
+    margin-left: 35%;
+    margin-right: 30%;
+    padding: 20px 20px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+#email h3
+{
+text-align: center;
+
+}
+#email h1
+{
+text-align: center;
+
+}
+
+
+footer p 
+{
+    text-align: center;
+    font-size: 12px;
+}
